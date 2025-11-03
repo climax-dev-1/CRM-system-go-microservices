@@ -3,8 +3,6 @@
 
 [![MIT License][license-shield]][license-url]
 
-[![Stargazers][stars-shield]][stars-url]
-
 
 
 <!-- PROJECT LOGO -->
