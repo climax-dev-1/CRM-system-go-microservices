@@ -296,7 +296,7 @@ Reusable functions and utilities specific to the core CRM service.
 <!-- CONTACT -->
 ## Contact
 
-Amanbek - [@telegram_handle](https://t.me/climax0121) - Climax
+Telegram - [@telegram_handle](https://t.me/climax0121) - Climax
 
 Project Link: [https://github.com/climax-dev-1/CRM-microservices](https://github.com/climax-dev-1/CRM-microservices)
 
