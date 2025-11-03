@@ -2,16 +2,15 @@
 <a name="readme-top"></a>
 
 [![MIT License][license-shield]][license-url]
-[![Forks][forks-shield]][forks-url]
+
 [![Stargazers][stars-shield]][stars-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Rahugg/CRM-system-go-microservices">
+  <a href="https://github.com/climax-dev-1/CRM-microservices">
     <img src="pkg/crm_core/img/crm-icon.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -250,7 +249,7 @@ Reusable functions and utilities specific to the core CRM service.
 
 2. Clone the repo
    ```sh
-   git clone https://github.com/Rahugg/CRM-system-go-microservices.git
+   git clone https://github.com/climax-dev-1/CRM-microservices.git
    ```
 3. Install go packages
    ```sh
@@ -299,22 +298,16 @@ Reusable functions and utilities specific to the core CRM service.
 <!-- CONTACT -->
 ## Contact
 
-Amanbek - [@telegram_handle](https://t.me/Rahuggg) - Rahuggg
+Amanbek - [@telegram_handle](https://t.me/climax0121) - Climax
 
-Project Link: [https://github.com/Rahugg/CRM-system-go-microservices](https://github.com/Rahugg/CRM-system-go-microservices)
+Project Link: [https://github.com/climax-dev-1/CRM-microservices](https://github.com/climax-dev-1/CRM-microservices)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[forks-shield]: https://img.shields.io/github/forks/Rahugg/CRM-system-go-microservices.svg?style=for-the-badge
-[forks-url]: https://github.com/Rahugg/CRM-system-go-microservices/network/members  
-[stars-shield]: https://img.shields.io/github/stars/Rahugg/CRM-system-go-microservices.svg?style=for-the-badge
-[stars-url]: https://github.com/Rahugg/CRM-system-go-microservices/stargazers
 [license-shield]: https://img.shields.io/badge/license-MIT-blue
-[license-url]: https://github.com/Rahugg/CRM-system-go-microservices/blob/master/LICENSE
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/amanbek-faizolla
+[license-url]: https://github.com/climax-dev-1/CRM-microservices/blob/master/LICENSE
 [Golang-badge]: https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white
 [Golang-url]: https://golang.org/
 [Gin-badge]: https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white
